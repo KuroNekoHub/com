@@ -1,4 +1,5 @@
 <RCC>
-    <qresource prefix="com">
+    <qresource prefix="/com">
+        <file>zip.png</file>
     </qresource>
 </RCC>
